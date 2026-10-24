@@ -1,0 +1,4 @@
+# No third-party pip dependencies required.
+# Uses Python standard library (dataclasses, math, unittest, time, random, tkinter).
+# For Linux/Debian systems without tkinter installed:
+# sudo apt-get install python3-tk
